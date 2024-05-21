@@ -488,7 +488,7 @@ footer section p {
 
 .reclama {
     margin-top: 99px;
-    display: flex !important;
+    display: flex;
     align-items: center;
     padding: 50px;
 }
