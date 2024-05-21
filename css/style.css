@@ -486,20 +486,20 @@ footer section p {
 
 /*Офис*/
 
-.reclama {
+.opisanie {
     margin-top: 99px;
     display: flex;
     align-items: center;
     padding: 50px;
 }
 
-.reclama img {
+.opisanie img {
     width: 600px;
     margin-left: 50px;
     box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
 }
 
-.reclama p {
+.opisanie p {
     font-size: 35px;
     font-weight: bold;
     text-align: justify;
@@ -681,16 +681,16 @@ footer section p {
         width: 80%;
     }
 
-    .reclama {
+    .opisanie {
         flex-wrap: wrap;
     }
 
-    .reclama p {
+    .opisanie p {
         font-size: 20px;
         margin: -20px;
     }
 
-    .reclama img {
+    .opisanie img {
         margin: 50px auto 0px;
         width: 100%;
         max-width: 740px;
